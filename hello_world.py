@@ -23,5 +23,7 @@ def main():
     
     print("\nProgram completed successfully!")
 
+    #added a comment to test the git commit
+
 if __name__ == "__main__":
     main()
