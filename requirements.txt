@@ -1,5 +1,0 @@
-# Python package requirements for this project
-# Add your dependencies here as you install them
-# Example:
-# requests==2.31.0
-# numpy==1.24.3
